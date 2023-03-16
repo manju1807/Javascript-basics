@@ -1,0 +1,11 @@
+git add .
+git commit
+git push
+git remote add origin https://github.com/manju1807/BradTraversy-JS.git
+git remote
+git push --set-upstream origin master
+
+git branch
+git branch {branchname}
+git checkout
+git checkout -b {newbranchname}
