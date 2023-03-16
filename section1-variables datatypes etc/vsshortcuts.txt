@@ -1,0 +1,60 @@
+// vs code shortcuts
+
+1. Command Palette
+Windows: CTRL+SHIFT+P
+
+2. Quick Open
+Windows: CTRL+P
+
+3. Toggle Sidebar
+Windows: CTRL+B
+
+4. Multi-Select Cursor
+Windows: CTRL+D
+
+5. Copy Line
+Windows: SHIFT+ALT+UP or SHIFT+ALT+DOWN
+
+6. Comment Code Block
+Windows: SHIFT+ALT+A (Multi-line comment), CTRL+K+C (Single-line comment)
+
+7. Go back / move forward (ALT+LeftArrow,  ALT+RightArrow)
+Windows: ALT+ —> or + –>
+
+8. Show All Symbols
+Windows: CTRL+T
+
+9. Trigger suggestion and Trigger parameter hints
+Windows: Ctrl+Space, Ctrl+Shift+Space
+
+ 10. Show References
+Windows: Shift+F12
+
+11. Global Find
+Windows: CTRL+SHIFT+F
+
+
+
+Function Keyboard Shortcut
+
+Command Palette	Windows:        CTRL+SHIFT+P
+
+Quick Open	Windows:            CTRL+P
+
+Toggle Sidebar	Windows:        CTRL+B
+
+Multi-Select Cursor	Windows:    CTRL+D
+
+Copy Line	Windows:            SHIFT+ALT+UP or SHIFT+ALT+DOWN
+
+Comment Code Block	Windows:    SHIFT+ALT+A
+
+Go Back and Move Forward:       ALT+ —> or ←-
+
+Show All Symbols :              CTRL+T
+
+Trigger Suggestion and Trigger Parameter Hints:  Ctrl+Space, Ctrl+Shift+Space
+
+Show References	Windows:        Shift+F12
+
+Global Find	Windows:            CTRL+SHIFT+F
