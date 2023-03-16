@@ -9,3 +9,6 @@ git branch
 git branch {branchname}
 git checkout
 git checkout -b {newbranchname}
+
+git merge origin/main
+git merge --allow-unrelated-histories origin/main
