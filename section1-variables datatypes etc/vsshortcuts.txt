@@ -58,3 +58,6 @@ Trigger Suggestion and Trigger Parameter Hints:  Ctrl+Space, Ctrl+Shift+Space
 Show References	Windows:        Shift+F12
 
 Global Find	Windows:            CTRL+SHIFT+F
+
+toggle extension : ctrl + B
+toggle terminal : ctrl + ~
