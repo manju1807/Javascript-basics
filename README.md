@@ -1,2 +1,2 @@
-# BradTraversy-JS
-Js learnings contents from Bradtraversy course
+# JavaScript-JS
+JS-Basics content.
