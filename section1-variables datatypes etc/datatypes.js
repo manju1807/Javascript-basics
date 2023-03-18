@@ -108,3 +108,6 @@ val = parseInt("100.30");
 val = parseFloat("100.30");
 
 console.log(val);
+
+//The datatypes are stored in different areas all primitive datatypes are stored stack whereas all the reference datatypes are stored in heap memory.
+// reference diagram is shared in the diagrams folder of this module.
