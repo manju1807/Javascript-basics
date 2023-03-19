@@ -33,3 +33,10 @@ let c = 1 + 2 + '3';
 console.log(c); //gives 33
 console.log(typeof c); //gives string
 
+let d = 5 + undefined;
+console.log(d); //gives NaN
+console.log(typeof d); //gives number
+
+let e = 5 + null;
+console.log(e); //gives 5
+console.log(typeof e); //gives number
