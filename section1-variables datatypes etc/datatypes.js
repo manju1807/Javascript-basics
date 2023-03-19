@@ -38,7 +38,9 @@ console.log(typeof sym); //symbol
 var big = 1234567890123456789012345678901234567890n;
 console.log(big);
 
-///////reference datatypes
+
+
+//Reference datatypes
 
 //array
 var hobbies = ["movies", "music"];
