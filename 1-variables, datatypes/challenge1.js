@@ -1,5 +1,5 @@
 // String exercise:
-//change the first letter of the given string using the inbuilt string methods:
+//change the first letter of the given string to capital letter using the inbuilt string methods:
 
 
 // imperative way:
